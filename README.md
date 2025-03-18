@@ -1,2 +1,2 @@
 # Amigo_secret
-Desafip para el curso de alura, amigo secreto
+Desafio para el curso de alura, amigo secreto
